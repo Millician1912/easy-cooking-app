@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a27ab40f.css",
+    "main.js": "/static/js/main.32fdca9d.js",
+    "static/media/bg-video.mp4": "/static/media/bg-video.f735eea622651ff47292.mp4",
+    "static/media/bg-header.jpg": "/static/media/bg-header.2663c7dfbacb19fced87.jpg",
+    "static/media/article3.jpg": "/static/media/article3.38a1124d6b25f3f3cb08.jpg",
+    "static/media/mika.png": "/static/media/mika.f9f0ae57d46c841c67ce.png",
+    "static/media/article4.jpg": "/static/media/article4.c9a642264d7f898625f3.jpg",
+    "static/media/article1.jpg": "/static/media/article1.6e16a0c86c2e65aa5951.jpg",
+    "static/media/404.png": "/static/media/404.3ac57fc487e537c59922.png",
+    "static/media/article2.jpg": "/static/media/article2.8f2c0c5335c7e7ca02d5.jpg",
+    "static/media/chicken.jpg": "/static/media/chicken.0ee982127cd01d6f5506.jpg",
+    "static/media/logo.png": "/static/media/logo.6cf90baddbd5e6a985b6.png",
+    "static/media/pasta.jpg": "/static/media/pasta.034b5a1ea8ec0f6e1b34.jpg",
+    "static/media/side.jpg": "/static/media/side.ac3067110a2cfa7698bc.jpg",
+    "static/media/beef.jpg": "/static/media/beef.76c006344d8e0162a9d0.jpg",
+    "static/media/breakfast.jpg": "/static/media/breakfast.140545231b6ccbdc556d.jpg",
+    "static/media/vegetarian.jpg": "/static/media/vegetarian.e3bd76072443fbf78ce6.jpg",
+    "static/media/starter.jpg": "/static/media/starter.4c916575d2a6290ede57.jpg",
+    "static/media/pork.jpg": "/static/media/pork.477c9bcbc7041679af65.jpg",
+    "static/media/vegan.jpg": "/static/media/vegan.4936b7b4db1e696b2c2d.jpg",
+    "static/media/dessert.jpg": "/static/media/dessert.01ea80d5659c1c726189.jpg",
+    "static/media/goat.jpg": "/static/media/goat.ac179e022dce06af53c0.jpg",
+    "static/media/seafood.jpg": "/static/media/seafood.e66b17149a81a3cb22c6.jpg",
+    "static/media/lamb.jpg": "/static/media/lamb.4d58dec8f0443a4f9958.jpg",
+    "static/media/techno.jpg": "/static/media/techno.c67ef3c1f35dd02d7b25.jpg",
+    "static/media/bg-sub.png": "/static/media/bg-sub.677ad62a3e8cb6cd8597.png",
+    "static/media/dl-app.png": "/static/media/dl-app.b19a67de4250c18899cc.png",
+    "static/media/unk.png": "/static/media/unk.f5a34027f7d81dffa76b.png",
+    "static/media/logo_multi_color.svg": "/static/media/logo_multi_color.287906e4f61a3bf0f8752c9e38c0c66e.svg",
+    "index.html": "/index.html",
+    "main.a27ab40f.css.map": "/static/css/main.a27ab40f.css.map",
+    "main.32fdca9d.js.map": "/static/js/main.32fdca9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a27ab40f.css",
+    "static/js/main.32fdca9d.js"
+  ]
+}
